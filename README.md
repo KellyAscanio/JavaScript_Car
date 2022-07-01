@@ -31,3 +31,15 @@ En esta le damos click a cancelar inmediatamente nos envia un mensaje a continua
 Termino la consulta.
 ![](https://github.com/KellyAscanio/JavaScript_Car/blob/main/TABLAS%20DE%20MULTIPLICAR/7%20pag.gif)
 
+
+EVIDENCIA VISUAL V1 DE CARRITO DE COMPRAS POO
+[](https://github.com/KellyAscanio/JavaScript_Car/blob/main/EVIDENCIA%20CAR/Evidencia%20CAR%20V1.gif)
+
+
+EVIDENCIA VISUAL V2 DE CARRITO DE COMPRAS CLASES
+https://github.com/KellyAscanio/JavaScript_Car/blob/main/EVIDENCIA%20CAR/Evidencia%20CAR%20V2.gif
+
+EVIDENCIA VISUAL V3 DE CARRITO DE COMPRAS Archivos JSON
+https://github.com/KellyAscanio/JavaScript_Car/blob/main/EVIDENCIA%20CAR/Evidencia%20CAR%20V3%201pag.gif
+https://github.com/KellyAscanio/JavaScript_Car/blob/main/EVIDENCIA%20CAR/Evidencia%20CAR%20V3%202%20pag.gif
+
