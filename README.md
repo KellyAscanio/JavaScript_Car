@@ -33,13 +33,13 @@ Termino la consulta.
 
 
 EVIDENCIA VISUAL V1 DE CARRITO DE COMPRAS POO
-[](https://github.com/KellyAscanio/JavaScript_Car/blob/main/EVIDENCIA%20CAR/Evidencia%20CAR%20V1.gif)
+![](https://github.com/KellyAscanio/JavaScript_Car/blob/main/EVIDENCIA%20CAR/Evidencia%20CAR%20V1.gif)
 
 
 EVIDENCIA VISUAL V2 DE CARRITO DE COMPRAS CLASES
-https://github.com/KellyAscanio/JavaScript_Car/blob/main/EVIDENCIA%20CAR/Evidencia%20CAR%20V2.gif
+![](https://github.com/KellyAscanio/JavaScript_Car/blob/main/EVIDENCIA%20CAR/Evidencia%20CAR%20V2.gif)
 
 EVIDENCIA VISUAL V3 DE CARRITO DE COMPRAS Archivos JSON
-https://github.com/KellyAscanio/JavaScript_Car/blob/main/EVIDENCIA%20CAR/Evidencia%20CAR%20V3%201pag.gif
-https://github.com/KellyAscanio/JavaScript_Car/blob/main/EVIDENCIA%20CAR/Evidencia%20CAR%20V3%202%20pag.gif
+![](https://github.com/KellyAscanio/JavaScript_Car/blob/main/EVIDENCIA%20CAR/Evidencia%20CAR%20V3%201pag.gif)
+![](https://github.com/KellyAscanio/JavaScript_Car/blob/main/EVIDENCIA%20CAR/Evidencia%20CAR%20V3%202%20pag.gif)
 
