@@ -4,7 +4,7 @@
 
 DOCUMENTACIÓN TABLAS DE MULTIPLICAR
 
-En esta primera imagen podemos observar el mensaje con el cuál la pagina recibe al usuario. 
+En esta primera imagen podemos observar el mensaje con el cuál la página recibe al usuario. 
 ![](https://github.com/KellyAscanio/JavaScript_Car/blob/main/TABLAS%20DE%20MULTIPLICAR/1%20pag.gif)
 
 
@@ -24,7 +24,7 @@ Luego nos muestra el resultado de la tabla sugerida es decir la del numero 3.
 ![](https://github.com/KellyAscanio/JavaScript_Car/blob/main/TABLAS%20DE%20MULTIPLICAR/5%20pag.gif)
 
 
-En esta le damos click a cancelar inmediatamente nos envia un mensaje a continuacion, en cas de querer otra tabla se le da click en aceptar y se hace el mismo procedimiento.
+En esta le damos click a cancelar inmediatamente nos envia un mensaje a continuacion, en caso de querer otra tabla se le da click en aceptar y se hace el mismo procedimiento.
 ![](https://github.com/KellyAscanio/JavaScript_Car/blob/main/TABLAS%20DE%20MULTIPLICAR/6%20pag.gif)
 
 
